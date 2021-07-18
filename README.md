@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Enthusiastic about **Machine Learning and Cloud Computing.**
 
-- 🌱 I’m currently working on a **[Learning Management System](https://github.com/Modeesha-Kalani/School_Management_System)**
+- 🌱 I’m currently working on a **[Student Management System](https://github.com/Modeesha-Kalani/School_Management_System)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
