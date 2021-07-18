@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying **Software Engineering** at **[SLIIT](https://www.sliit.lk/).**
 
-- 👨‍💻 Enthusiastic about **Machine Learning, Deep Learning and Computer Vision.**
+- 👨‍💻 Enthusiastic about **Machine Learning and Cloud Computing.**
 
 - 🌱 I’m currently working on a **[Learning Management System](https://github.com/salitha10/Study-Buddy-LMS)**
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 📫 Reach me through **modeeshakalani97@gmail.com**
 
-- ⚡ I love **coding and astronomy. (and EDM too)**
+- ⚡ I love **coding**
 
 
 ## 🚀 Languages and Tools:
