@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Modeesha</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Modeesha</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
 
 
@@ -67,15 +67,15 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://github.com/Modeesha-Kalani/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Modeesha-Kalani&theme=highcontrast&fire=DD2727"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Modeesha-Kalani's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Modeesha-Kalani&theme=highcontrast&fire=DD2727"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Modeesha-Kalani/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Modeesha-Kalani&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Modeesha-Kalani/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Modeesha-Kalani&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Modeesha-Kalani/github-readme-stats"><img alt="Modeesha-Kalani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Modeesha-Kalani&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Modeesha-Kalani/github-readme-stats"><img alt="Modeesha-Kalani's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Modeesha-Kalani&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<a href="https://github.com/Modeesha-Kalani/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Modeesha-Kalani&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Modeesha-Kalani/github-readme-activity-graph"><img alt="Modeesha-Kalani's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Modeesha-Kalani&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
