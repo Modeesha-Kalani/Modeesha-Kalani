@@ -71,6 +71,8 @@ Here are some ideas to get you started:
     </a>
 </p>
 
+![Snake animation](https://github.com/Modeesha-Kalani/Modeesha-Kalani/blob/output/github-contribution-grid-snake.svg)
+
 ## 📊 My Github Stats
 
   <br/>
