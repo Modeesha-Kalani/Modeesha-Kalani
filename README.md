@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - ⚡ I love **coding**
 
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -70,6 +70,8 @@ Here are some ideas to get you started:
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Modeesha-Kalani's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Modeesha-Kalani&theme=highcontrast&fire=DD2727"/>
     </a>
 </p>
+
+## 🐍 Snake Loves My Contribution Graph
 
 ![Snake animation](https://github.com/Modeesha-Kalani/Modeesha-Kalani/blob/output/github-contribution-grid-snake.svg)
 
